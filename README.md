@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shahryar908
-
-  looking to have skills in Ai!
+- 👋 Hi, I’m shahryar
+- 
   just keep growing
 <!---
 shahryar908/shahryar908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

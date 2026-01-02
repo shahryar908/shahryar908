@@ -268,7 +268,7 @@ I'm always open to collaborating on GenAI projects, discussing backend architect
 
 - 💼 LinkedIn: [Connect with me]() *(update with your actual LinkedIn)*
 - 📧 Email: maharshahryar518@gmail.com 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: [yourportfolio.com](https://portfolionew-8453.vercel.app/)
 - 🐦 Twitter: [@shahryar908](https://twitter.com/shahryar908) 
 
 ##  Philosophy

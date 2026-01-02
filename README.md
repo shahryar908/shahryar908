@@ -1,11 +1,11 @@
-# Hi there, I'm Shahryar 👋
+# Hi there, I'm Shahryar 
 
 [![GitHub followers](https://img.shields.io/github/followers/shahryar908?label=Follow&style=social)](https://github.com/shahryar908)
 [![Profile Views](https://komarev.com/ghpvc/?username=shahryar908&color=blue&style=flat)](https://github.com/shahryar908)
 
-## 🚀 About Me
+##  About Me
 
-**Backend Engineer** specializing in **Generative AI** | Building production-ready intelligent systems with Python & FastAPI | Based in Karachi, Pakistan 🇵🇰
+**Backend Engineer** specializing in **Generative AI** | Building production-ready intelligent systems with Python & FastAPI 
 
 I architect and develop scalable backend systems powered by cutting-edge GenAI technologies. My expertise lies in building autonomous AI agents, implementing RAG pipelines, and deploying production-grade applications with robust DevOps practices.
 
@@ -15,60 +15,60 @@ I architect and develop scalable backend systems powered by cutting-edge GenAI t
 - Developing scalable FastAPI backends for GenAI applications
 - Deploying containerized AI services on AWS with Kubernetes
 
-### 🌱 Core Expertise
+###  Core Expertise
 
-#### 🤖 Generative AI & LLM Engineering
+####  Generative AI & LLM Engineering
 - **RAG Systems**: Vector search, semantic retrieval, context optimization
 - **Vector Databases**: Pinecone, Weaviate, ChromaDB, FAISS, Qdrant
 - **Prompt Engineering**: Advanced prompting techniques, chain-of-thought, few-shot learning
 - **AI Agents**: Building autonomous agents with LangGraph & LangChain
 - **LLM Orchestration**: Multi-agent systems, tool calling, function orchestration
 
-#### ⚙️ Backend Engineering
+####  Backend Engineering
 - **API Development**: RESTful APIs, FastAPI, async operations
 - **Authentication & Security**: JWT, OAuth2, RBAC, API key management
 - **Database Design**: PostgreSQL, MongoDB, Redis, SQLAlchemy ORM
 - **Real-time Communication**: WebSockets, Server-Sent Events (SSE)
 - **Performance**: Rate limiting, caching, load balancing, optimization
 
-#### 🚀 DevOps & Cloud Infrastructure
+####  DevOps & Cloud Infrastructure
 - **Containerization**: Docker, Docker Compose, multi-stage builds
 - **Orchestration**: Kubernetes (K8s), Helm charts, deployments
 - **Cloud Platforms**: AWS (EC2, S3, Lambda, ECS, RDS)
 - **CI/CD**: Jenkins, GitHub Actions, automated testing & deployment
 - **Monitoring**: Logging, metrics, observability for ML systems
 
-## 💻 Featured Projects
+##  Featured Projects
 
-### 🤖 [GPT from Scratch](https://github.com/shahryar908/gpt_from_scratch)
+###  [GPT from Scratch](https://github.com/shahryar908/gpt_from_scratch)
 Deep dive into transformer architecture - building a GPT model from the ground up to understand LLM internals.
 - **Tech Stack**: Python, PyTorch, Transformers, Attention Mechanisms
 - **Skills**: Deep Learning, Neural Architecture, NLP
 - ⭐ Star this repo if you find it helpful!
 
-### 📚 [RAG Chat with PDF](https://github.com/shahryar908/Ragchatwithpdf)
+###  [RAG Chat with PDF](https://github.com/shahryar908/Ragchatwithpdf)
 Production-ready RAG system for intelligent document Q&A using advanced retrieval techniques.
 - **Tech Stack**: Python, LangChain, Vector DB (Pinecone/ChromaDB), OpenAI/Anthropic APIs
 - **Features**: PDF parsing, chunking strategies, semantic search, context-aware responses
 - **Backend**: FastAPI REST endpoints, streaming responses, session management
 
-### 🖼️ [Image Captioning](https://github.com/shahryar908/imagecaptioning)
+###  [Image Captioning](https://github.com/shahryar908/imagecaptioning)
 Computer vision + NLP pipeline for generating contextual image descriptions.
 - **Tech Stack**: Python, PyTorch, CNN-RNN/Transformer Architecture
 - **Application**: Multimodal AI, Vision-Language models
 
-### 🔄 [CI/CD Pipeline](https://github.com/shahryar908/cicd)
+###  [CI/CD Pipeline](https://github.com/shahryar908/cicd)
 Enterprise-grade CI/CD setup for automated testing, building, and deployment of GenAI applications.
 - **Tech Stack**: Jenkins, Docker, Kubernetes, Shell Scripts, GitHub Actions
 - **Focus**: MLOps, automated testing, containerized deployments, AWS integration
 - **Features**: Multi-stage builds, environment management, rollback strategies
 
-### 🔍 [Researchy](https://github.com/shahryar908/researchy)
-AI-powered autonomous research agent that gathers, synthesizes, and summarizes information.
+###  [Researchy](https://github.com/shahryar908/researchy)
+AI-powered autonomous research agent that gathers, synthesizes, and build the pdf of research paper.
 - **Tech Stack**: TypeScript, LangChain, Agent Orchestration, React
 - **Features**: Multi-step reasoning, tool usage, memory management
 
-### 📊 [Attendance Backend](https://github.com/shahryar908/attendancebackend)
+###  [Attendance Backend](https://github.com/shahryar908/attendancebackend)
 Scalable FastAPI backend with complete authentication, database management, and real-time features.
 - **Tech Stack**: Python, FastAPI, PostgreSQL, JWT Authentication, WebSockets
 - **Features**: RESTful APIs, role-based access control, data validation, async operations
@@ -161,10 +161,10 @@ Scalable FastAPI backend with complete authentication, database management, and 
 🚀 Advanced Kubernetes orchestration for ML workloads  
 🚀 Observability and monitoring for LLM applications
 
-## 💼 Professional Skills Breakdown
+##  Professional Skills Breakdown
 
 <details>
-<summary><b>🧠 Generative AI & LLM Engineering</b></summary>
+<summary><b> Generative AI & LLM Engineering</b></summary>
 
 ### RAG (Retrieval-Augmented Generation)
 - Building production RAG pipelines with LangChain
@@ -262,16 +262,16 @@ Scalable FastAPI backend with complete authentication, database management, and 
 
 </details>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborating on GenAI projects, discussing backend architecture, or helping others build production AI systems. Feel free to reach out!
 
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/shahryar908) *(update with your actual LinkedIn)*
-- 📧 Email: shahryar908@example.com *(update with your actual email)*
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional - add if you have one)*
+- 💼 LinkedIn: [Connect with me]() *(update with your actual LinkedIn)*
+- 📧 Email: maharshahryar518@gmail.com 
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 🐦 Twitter: [@shahryar908](https://twitter.com/shahryar908) *(optional - add if you have one)*
 
-## 💡 Philosophy
+##  Philosophy
 
 > "Just keep growing" - Architecting intelligent systems, one API endpoint at a time 🚀
 
@@ -284,9 +284,9 @@ I'm always open to collaborating on GenAI projects, discussing backend architect
 ---
 
 <p align="center">
-  <i>⭐ Star my repositories if you find them useful!</i><br>
-  <i>👥 Follow me for updates on AI/ML projects and insights</i><br>
-  <i>🤝 Open to collaboration and new opportunities</i>
+  <i> Star my repositories if you find them useful!</i><br>
+  <i> Follow me for updates on AI/ML projects and insights</i><br>
+  <i> Open to collaboration and new opportunities</i>
 </p>
 
 ---

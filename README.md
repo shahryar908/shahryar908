@@ -269,7 +269,7 @@ I'm always open to collaborating on GenAI projects, discussing backend architect
 - 💼 LinkedIn: [Connect with me]() *(update with your actual LinkedIn)*
 - 📧 Email: maharshahryar518@gmail.com 
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 🐦 Twitter: [@shahryar908](https://twitter.com/shahryar908) *(optional - add if you have one)*
+- 🐦 Twitter: [@shahryar908](https://twitter.com/shahryar908) 
 
 ##  Philosophy
 
@@ -291,4 +291,4 @@ I'm always open to collaborating on GenAI projects, discussing backend architect
 
 ---
 
-**Keywords**: Backend Engineer, GenAI Engineer, Python Developer, FastAPI Expert, RAG Systems, Vector Databases, Prompt Engineering, AI Agents, LangGraph, LangChain, Autonomous Agents, REST API, Authentication, WebSockets, Rate Limiting, Docker, Kubernetes, AWS, Jenkins, CI/CD, DevOps, PostgreSQL, MongoDB, Redis, Pinecone, ChromaDB, Weaviate, LLM Applications, Microservices, Karachi Pakistan Developer, MLOps Engineer, Production AI Systems
+**Keywords**: Backend Engineer, GenAI Engineer, Python Developer, FastAPI Expert, RAG Systems, Vector Databases, Prompt Engineering, AI Agents, LangGraph, LangChain, Autonomous Agents, REST API, Authentication, WebSockets, Rate Limiting, Docker, Kubernetes, AWS, Jenkins, CI/CD, DevOps, PostgreSQL, MongoDB, Redis, Pinecone, ChromaDB, Weaviate, LLM Applications, Microservices, MLOps Engineer, Production AI Systems
